@@ -89,10 +89,6 @@
 
   /* ======== /features/ ========= */
 
-  .features-title {
-    display: none;
-  }
-
 
 .features-list-title {
     font-weight: 500;
@@ -116,7 +112,7 @@
     background: #f4f4fd;
 }
 
-.team-list {
+.team-list-person {
     background-color: #FFFFFF;
 }
 
